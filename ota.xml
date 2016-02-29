@@ -2,8 +2,8 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <tblte>
-            <Filename>ResurrectionRemix-M-v5.6.4-20160227-tbltexx.zip</Filename>
-            <RomUrl
+            <Filename>ResurrectionRemix-M-v5.6.4-20160227-tbltexx</Filename>
+            <Romuald
                 id="rom"
                 title="Rom"
                 description="Download micky387 builds">https://www.androidfilehost.com/?w=files&amp;flid=21887</RomUrl>
@@ -23,7 +23,7 @@
       </Stable>
       <Stable>
       <tbltexx>
-            <Filename>ResurrectionRemix-M-v5.6.4-20160227-tbltexx.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.4-20160227-tbltexx</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
