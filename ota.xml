@@ -3,7 +3,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <tblte>
-            <Filename>ResurrectionRemix-M-v5.7.4-20161115-tbltexx.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20161115-tbltexx</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -24,7 +24,7 @@
       </Stable>
       <Stable>
       <tbltexx>
-            <Filename>ResurrectionRemix-M-v5.7.4-20161115-tbltexx.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20161115-tbltexx</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -45,7 +45,7 @@
       </Stable>
       <Stable>
       <tbltedt>
-            <Filename>ResurrectionRemix-M-v5.7.4-20161115-tbltexx.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20161115-tbltexx</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
