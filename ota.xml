@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <tblte>
-            <Filename>ResurrectionRemix-M-v5.7.4-20161116-tbltexx.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20161116-tbltexx</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -20,10 +20,8 @@
                 title="XDA"
                 description="Visit micky387 Note Edge thread">http://forum.xda-developers.com/note-edge/development/rom-cm-12-0-915f-915fy-t3104315</XDAUrl>
       </tblte>
-      </Stable>
-      <Stable>
       <tbltexx>
-            <Filename>ResurrectionRemix-M-v5.7.4-20161116-tbltexx.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20161116-tbltexx</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -41,10 +39,8 @@
                 title="XDA"
                 description="Visit micky387 Note Edge thread">http://forum.xda-developers.com/note-edge/development/rom-cm-12-0-915f-915fy-t3104315</XDAUrl>
       </tbltexx>
-      </Stable>
-      <Stable>
       <tbltedt>
-            <Filename>ResurrectionRemix-M-v5.7.4-20161116-tbltexx.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20161116-tbltexx</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
