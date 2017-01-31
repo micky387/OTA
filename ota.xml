@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <tblte>
-            <Filename>ResurrectionRemix-M-v5.7.4-20161116-tbltexx</Filename>
+            <Filename>RR-N-v5.8.1-20170131-tbltexx-Official</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download micky387 builds">https://www.androidfilehost.com/?fid=529152257862681833</RomUrl>
+                description="Download micky387 builds">https://www.androidfilehost.com/?fid=745425885120704525</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -21,11 +21,11 @@
                 description="Visit micky387 Note Edge thread">http://forum.xda-developers.com/note-edge/development/rom-cm-12-0-915f-915fy-t3104315</XDAUrl>
       </tblte>
       <tbltexx>
-            <Filename>ResurrectionRemix-M-v5.7.4-20161116-tbltexx</Filename>
+            <Filename>RR-N-v5.8.1-20170131-tbltexx-Official</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download micky387 builds">https://www.androidfilehost.com/?fid=529152257862681833</RomUrl>
+                description="Download micky387 builds">https://www.androidfilehost.com/?fid=745425885120704525</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -40,11 +40,11 @@
                 description="Visit micky387 Note Edge thread">http://forum.xda-developers.com/note-edge/development/rom-cm-12-0-915f-915fy-t3104315</XDAUrl>
       </tbltexx>
       <tbltedt>
-            <Filename>ResurrectionRemix-M-v5.7.4-20161116-tbltexx</Filename>
+            <Filename>RR-N-v5.8.1-20170131-tbltexx-Official</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download micky387 builds">https://www.androidfilehost.com/?fid=529152257862681833</RomUrl>
+                description="Download micky387 builds">https://www.androidfilehost.com/?fid=745425885120704525</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
