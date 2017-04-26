@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <tblte>
-            <Filename>RR-N-v5.8.2-20170227-tbltexx-Official</Filename>
+            <Filename>RR-N-v5.8.3-20170425-tbltexx-Official</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download micky387 builds">https://www.androidfilehost.com/?fid=745425885120711300</RomUrl>
+                description="Download micky387 builds">https://www.androidfilehost.com/?fid=745425885120727117</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -19,13 +19,17 @@
                 id="xda"
                 title="XDA"
                 description="Visit micky387 Note Edge thread">http://forum.xda-developers.com/note-edge/development/rom-cm-12-0-915f-915fy-t3104315</XDAUrl>
+            <TWRPUrl
+                id="twrp"
+                title="TWRP"
+                description="DL last TWRP 3.1 by micky387 for lastest RR 5.8.3 (android 7.1.2)">https://www.androidfilehost.com/?fid=529152257862722140</TWRPUrl>    
       </tblte>
       <tbltexx>
-            <Filename>RR-N-v5.8.2-20170227-tbltexx-Official</Filename>
+            <Filename>RR-N-v5.8.3-20170425-tbltexx-Official</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download micky387 builds">https://www.androidfilehost.com/?fid=745425885120711300</RomUrl>
+                description="Download micky387 builds">https://www.androidfilehost.com/?fid=745425885120727117</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -38,13 +42,17 @@
                 id="xda"
                 title="XDA"
                 description="Visit micky387 Note Edge thread">http://forum.xda-developers.com/note-edge/development/rom-cm-12-0-915f-915fy-t3104315</XDAUrl>
+            <TWRPUrl
+                id="twrp"
+                title="TWRP"
+                description="DL last TWRP 3.1 by micky387 for lastest RR 5.8.3 (android 7.1.2)">https://www.androidfilehost.com/?fid=529152257862722140</TWRPUrl>    
       </tbltexx>
       <tbltedt>
-            <Filename>RR-N-v5.8.2-20170227-tbltexx-Official</Filename>
+            <Filename>RR-N-v5.8.3-20170425-tbltexx-Official</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download micky387 builds">https://www.androidfilehost.com/?fid=745425885120711300</RomUrl>
+                description="Download micky387 builds">https://www.androidfilehost.com/?fid=745425885120727117</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -57,6 +65,10 @@
                 id="xda"
                 title="XDA"
                 description="Visit micky387 Note Edge thread">http://forum.xda-developers.com/note-edge/development/rom-cm-12-0-915f-915fy-t3104315</XDAUrl>
+            <TWRPUrl
+                id="twrp"
+                title="TWRP"
+                description="DL last TWRP 3.1 by micky387 for lastest RR 5.8.3 (android 7.1.2)">https://www.androidfilehost.com/?fid=529152257862722140</TWRPUrl>    
       </tbltedt>
     </Stable>
 </SlimOTA>
